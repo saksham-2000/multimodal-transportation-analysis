@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+folium
+geopandas
+fuzzywuzzy
+python-Levenshtein
+selenium
+openpyxl
+shapely
+jupyter
